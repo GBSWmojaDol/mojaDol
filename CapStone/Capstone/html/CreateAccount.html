@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="//t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
+    <title>Document</title>
+</head>
+<script src="../js/checkInfo.js"></script>
+<script src="../js/connection.js"></script>
+<body>
+    <header class="welcome-header">
+        <h1 class="account_title welcome-header__title">Create Account</h1>
+    </header>
+    <form id="login-form" action="../index.html" method="get">
+        <p class="login-form__p">아이디</p>
+        <input
+            class="id"
+            placeholder="Id"
+            name="create-id"
+            type='text' />
+        <p className="login-form__p">비밀번호</p>
+        <input
+            class="pw"
+            placeholder="password"
+            name="create-pw"
+            type='password' />
+        <p className="login-form__p">비밀번호 확인</p>
+        <input
+            class="pw-chk"
+            placeholder="password check"
+            name="create-pw-chk"
+            type='password' />
+        <p class="login-form__p">닉네임</p>
+        <input
+                class="nickname"
+                placeholder="nickname"
+                name="nickname"
+                type='text' />
+            <p class="login-form__p">주소</p>
+            <input
+                class="addr"
+                placeholder="도로명 주소만 입력 가능합니다."
+                name="create-address"
+                type='text'
+                />
+            <input
+                class="details-addr"
+                placeholder="details-address"
+                name="details-address"
+                type="text"
+            />
+        <input type="submit" value="Create-Account" onclick="CheckInfo()" />
+    </form>
+</body>
+</html>

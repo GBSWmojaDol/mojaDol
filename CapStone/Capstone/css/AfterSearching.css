@@ -1,0 +1,28 @@
+@import './Search.css';
+
+.bottom-header div {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.fa-ban {
+  color: #21355B;
+  font-size: 100px;
+}
+
+#NotFound-icon {
+  display: block;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+}
+
+#NotFound_Text {
+  text-align: center;
+  color: #8092A3;
+  font-weight: bold;
+}

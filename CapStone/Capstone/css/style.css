@@ -1,0 +1,27 @@
+@import './login.css';
+@import './CreateAccount.css';
+@import './AfterSearching.css';
+
+/* component */
+@import './components/welcome.css';
+@import './components/status-header.css';
+@import './components/main-screen.css';
+@import './components/nav-bar.css';
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    /*height: 1000vh;*/
+    color: #2e363e;
+}
+a {
+    text-decoration-line: none;
+    color:  #8092A3;
+}
+
+ul {
+    list-style:none;
+}
+
+.account_title {
+    padding-top: 0px;
+}

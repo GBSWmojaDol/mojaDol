@@ -1,0 +1,26 @@
+.nav {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f9f9fa;
+    padding: 20px 50px;
+    box-sizing: border-box;
+    border-top: 1px solid #b0b8be;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    padding-inline-start: 0px;
+}
+
+.nav__link {
+    position: relative;
+    transition: 0.3s;
+    color: #8092A3;
+}
+
+.nav__link:hover {
+    color: #21355B;
+}
+
