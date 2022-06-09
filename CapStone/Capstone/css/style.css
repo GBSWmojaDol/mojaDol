@@ -1,12 +1,21 @@
 @import './login.css';
 @import './CreateAccount.css';
 @import './AfterSearching.css';
+@import './Category.css';
+@import './details.css';
 
 /* component */
 @import './components/welcome.css';
 @import './components/status-header.css';
 @import './components/main-screen.css';
 @import './components/nav-bar.css';
+
+@font-face {
+    font-family: 'SuseongDotum';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/SuseongDotum.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -20,6 +29,8 @@ a {
 
 ul {
     list-style:none;
+    margin-inline-start: 0px;
+    padding-inline-start: 0px;
 }
 
 .account_title {
