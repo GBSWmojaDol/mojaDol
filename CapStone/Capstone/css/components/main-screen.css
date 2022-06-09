@@ -12,12 +12,13 @@
 
 .main-screen__rel form select {
     border: none;
-    background-color: aliceblue;
+    background-color: #262a2d;
     padding: 10px 10px;
-    border-radius: 5px;
+    border-radius: 2px;
     width: 180px;
     height: 40px;
     font-size: 15px;
+    color: #fff;
 }
 
 .main-screen__rel form input {
@@ -25,7 +26,9 @@
     height: 40px;
     width: 80px;
     font-size: 15px;
-    background-color: aliceblue;
+    border-radius: 2px;
+    color: #fff;
+    background-color: #262a2d;
     transition: 0.3s;
 }
 
@@ -132,6 +135,10 @@
 
 .main-screen__foodlist li {
     text-align: center;
+}
+
+.main-screen__foodlist li img {
+    width: 40px;
 }
 
 .main-screen__Info {
