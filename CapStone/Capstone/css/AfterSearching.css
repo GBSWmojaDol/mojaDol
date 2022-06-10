@@ -1,16 +1,11 @@
 @import './Search.css';
-
-.bottom-header div {
-  margin-top: 100px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
+@import './style.css';
 
 .fa-ban {
   color: #21355B;
   font-size: 100px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #NotFound-icon {
@@ -23,6 +18,14 @@
 
 #NotFound_Text {
   text-align: center;
-  color: #8092A3;
+  margin-top: 10px;
   font-weight: bold;
+}
+
+.fa-arrow-left {
+  margin-bottom: 5px;
+}
+
+.search-box {
+  margin-bottom: 9px;
 }
