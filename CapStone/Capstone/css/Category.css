@@ -1,0 +1,4 @@
+.icon-search a img {
+    width: 30px;
+    transform: rotate(180deg);
+}

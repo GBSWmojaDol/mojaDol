@@ -1,0 +1,31 @@
+@import './Search.css';
+@import './style.css';
+
+.fa-ban {
+  color: #21355B;
+  font-size: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#NotFound-icon {
+  display: block;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+}
+
+#NotFound_Text {
+  text-align: center;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.fa-arrow-left {
+  margin-bottom: 5px;
+}
+
+.search-box {
+  margin-bottom: 9px;
+}
