@@ -1,0 +1,111 @@
+@import "./style.css";
+
+.bottom-bar {
+  border-bottom: 1px solid #CCD3D8;
+  margin-bottom: 25px;
+}
+
+.fa-xmark {
+  font-size: 40px;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+.bottom-ui {
+  margin-top: 5px;
+}
+
+#shop_name {
+  border: 0;
+  width: 95%;
+  font-size: 18px;
+  border-bottom: 1px solid #CCD3D8;
+  margin-top: 30px;
+  margin-left: 20px;
+  padding: 15px 0px;
+}
+
+#shop_addr {
+  border: 0;
+  width: 95%;
+  font-size: 18px;
+  border-bottom: 1px solid #CCD3D8;
+  margin-top: 30px;
+  margin-left: 20px;
+  padding: 15px 0px;
+}
+
+#shop_addr2 {
+  border: 0;
+  width: 95%;
+  font-size: 18px;
+  border-bottom: 1px solid #CCD3D8;
+  margin-top: 30px;
+  margin-left: 20px;
+  padding: 15px 0px;
+}
+
+.shop-num {
+  margin-top: 30px;
+  margin-left: 20px;
+  font-size: 18px;
+  color: rgb(118, 118, 118);
+}
+
+.Num_Text {
+  display: inline;
+}
+
+#first_num {
+  border: 0;
+  border-bottom: 1px solid #CCD3D8;
+  width: 15%;
+  font-size: 18px;
+  color: rgb(118, 118, 118);
+  padding: 13px 0px;
+}
+
+#middle_num {
+  border: 0;
+  border-bottom: 1px solid #CCD3D8;
+  width: 15%;
+  font-size: 18px;
+  color: rgb(118, 118, 118);
+  padding: 13px 0px;
+}
+
+#end_num {
+  border: 0;
+  border-bottom: 1px solid #CCD3D8;
+  width: 15%;
+  font-size: 18px;
+  color: rgb(118, 118, 118);
+  padding: 13px 0px;
+}
+
+.Check_Groups {
+  margin-top: 30px;
+}
+
+.Check {  
+  width: 15%;
+  font-size: 18px;
+  color: rgb(118, 118, 118);
+  padding: 13px 0px;
+  display: inline;
+  margin-left: 20px;
+}
+
+#site-addr_name {
+  border: 0;
+  width: 95%;
+  font-size: 18px;
+  border-bottom: 1px solid #CCD3D8;
+  margin-top: 30px;
+  margin-left: 20px;
+  padding: 15px 0px;
+}
+
+.a-button {
+  margin-top: 40px;
+}
