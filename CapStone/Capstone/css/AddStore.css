@@ -109,3 +109,19 @@
 .a-button {
   margin-top: 40px;
 }
+
+.Category_Check {
+  margin-top: 30px;
+  margin-left: 20px;
+  font-size: 18px;
+  color: rgb(118, 118, 118);
+}
+
+#Category {
+  border: 0;
+  border-bottom: 1px solid #CCD3D8;
+  width: 22%;
+  font-size: 18px;
+  color: rgb(118, 118, 118);
+  padding: 13px 0px;
+}
