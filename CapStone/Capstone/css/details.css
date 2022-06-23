@@ -1,38 +1,55 @@
-.details-main {
+.search-icon {
+    transform: rotate(360deg);
+}
+
+.search-header {
     padding: 0px 10px;
-    margin-top: 20px;
 }
 
-.details-main__img {
-    width: 100%;
-    height: 250px;
-    margin: auto;
-    margin-bottom: 10px;
-    border-radius: 5px;
-}
-
-.details-main__Info {
-    width: 95%;
-    margin: auto;
-    height: 180px;
-    border-radius: 2px;
+.like-rating {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    box-shadow: 4px 4px 4px 4px gray;
-} 
-
-.details-main__Info__name {
-    font-weight: 600;
-    font-size: 18px;
+    font-size: 1rem;
+    margin-top: 1px;
+    text-align: center;
 }
 
-.details-img {
-    background-image: url('../img/Domino.jpg');
-    background-repeat : no-repeat;
-    background-size : cover;
-    width: 100%;
-    height: 200px;
-    padding: 0px;
-}   
+.like-rating input {
+    display: none;
+}
+
+.like-rating i {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #FF8063;
+    cursor: pointer;
+}
+    
+.like-rating input:checked ~ label i {
+    -webkit-text-fill-color: #FF8063;
+    -webkit-text-stroke-color: #FF8063;
+    -webkit-text-stroke-width: 1px;
+}
+
+.like-rating i:hover,
+.like-rating i:hover ~ i {
+    -webkit-text-fill-color: #FF8063;
+}
+
+#show-review {
+    border: none;
+    padding: 10px;
+    background-color: #FF918A;
+    color: #fff;
+    border-radius: 3px;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    margin-top: 30px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.review-list {
+    border-bottom: 50px solid #eee;
+}
+

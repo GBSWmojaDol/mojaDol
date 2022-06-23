@@ -1,4 +1,13 @@
-.icon-search a img {
+.icon-search1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon-search1 a img {
     width: 30px;
+}
+.arrow-icon {
     transform: rotate(180deg);
 }
+

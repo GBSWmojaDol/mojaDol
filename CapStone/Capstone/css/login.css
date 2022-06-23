@@ -13,17 +13,35 @@
     transition: border-color 0.3s ease-in-out;
 }
 
-#login-form input[type = "submit" ] {
+.login-form-submit {
     border-bottom: none;
-    background-color: #8092A3;
-    color: #000;
+    background-color: #262a2d;
+    color: #fff;
     cursor: pointer;
     transition: 0.3s;
     border-radius: 5px;
     padding: 20px 0px;
 }
 
-#login-form input[type = "submit"]:hover {
+#login-form div {
+    display: flex;
+}
+
+#id-chk {
+    cursor: pointer;
+    margin-left: 20px;
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#262a2d;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+.login-form-submit:hover {
     background-color: #21355B;
     color: #fff;
 }
@@ -73,8 +91,8 @@
 #create-form a {
     border: none;
     text-align: center;
-    background-color: #8092A3;
-    color: #000;
+    background-color: #262a2d;
+    color: #fff;
     cursor: pointer;
     transition: 0.3s;
     border-radius: 5px;

@@ -16,11 +16,14 @@
     </header>
     <form id="login-form" action="../index.html" method="get">
         <p class="login-form__p">아이디</p>
-        <input
+        <div>
+            <input
             class="id"
             placeholder="Id"
             name="create-id"
             type='text' />
+            <div id="id-chk" name="id-chk"  onclick="CheckId()"><p>중복 확인</p></div>
+        </div>
         <p className="login-form__p">비밀번호</p>
         <input
             class="pw"
@@ -52,7 +55,8 @@
                 name="details-address"
                 type="text"
             />
-        <input type="submit" value="Create-Account" onclick="CheckInfo()" />
+        <input type="submit" value="Create-Account" onclick="CheckInfo()" class="login-form-submit"/>
     </form>
 </body>
+<script src="../js/IdCheck.js"></script>
 </html>

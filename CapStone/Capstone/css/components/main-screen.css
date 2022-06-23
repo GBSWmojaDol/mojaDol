@@ -1,7 +1,6 @@
 .main-screen {
     width: 100%;
-
-    /*border: 1px solid #000;*/
+    /* border: 1px solid #000; */
 }
 
 .main-screen__rel {
@@ -9,6 +8,12 @@
     height: 50px;
     position: fixed;
 }
+
+.main-screen__rel2 {
+    height: 80px;
+}
+
+
 
 .main-screen__rel form select {
     border: none;
@@ -124,6 +129,9 @@
     color: #fff;
 }
 
+.foodlist {
+    margin-top: 15px;
+}
 
 
 .main-screen__foodlist {
@@ -145,11 +153,96 @@
     border: 1px solid #000;
 }
 
-
-
 .main-screen__delete:active {
     background-color: #b0b8be;
 }
+
+.main-screen__image img{
+    width: 100%;
+    height: 100%;
+}
+
+.main-screen__store-name {
+    font-size: 25px;
+    /* border: 1px solid #000; */
+    height: 50px;
+    display: flex; 
+    justify-content: center;   
+    align-items: center;
+}
+
+.main-screen__store-info {
+    /* border: 1px solid #000; */
+    height: 250px;
+    
+}
+
+.main-screen__store-info ul li {
+    display: flex;
+    padding: 0px 10px;
+}
+
+.main-screen__store-info-todo {
+    height: 35px;
+}
+
+.store-info {
+    width: 100px;
+}
+
+.store-location {
+    width: 100px;
+}
+
+.main-screen__todoList {
+    padding: 0px 15px;
+
+}
+
+.main-screen__todoList h3 {
+    text-align: center;
+}
+
+.main-screen__todoList li:last-child {
+    margin-bottom: 20px;
+}
+
+.main-screen__todoList li {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.main-screen__todoList li img {
+    width: 100px;
+}
+
+.main-screen__last-info {
+    height: 180px;
+    padding: 0px 10px;
+}
+
+.main-screen__last-info li {
+    display: flex;
+
+}
+
+.main-screen__menu-accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+.main-screen__menu-accordion:hover {
+    background-color: #ccc;
+}
+
 
 /* main-screen tab */
 @media screen and (min-height: 800px){
