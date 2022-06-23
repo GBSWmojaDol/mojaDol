@@ -14,13 +14,18 @@
     <header class="welcome-header">
         <h1 class="account_title welcome-header__title">Create Account</h1>
     </header>
-    <form id="login-form" action="../index.html" method="get">
+    <form id="login-form" action="../index.html" method="get" onsubmit="return CheckInfo()">
         <p class="login-form__p">아이디</p>
         <input
             class="id"
             placeholder="Id"
             name="create-id"
             type='text' />
+        <input 
+            class="login-check" 
+            placeholder="LoginCheck"
+            value="Id Check"
+            type="button" />
         <p className="login-form__p">비밀번호</p>
         <input
             class="pw"
@@ -52,7 +57,7 @@
                 name="details-address"
                 type="text"
             />
-        <input type="submit" value="Create-Account" onclick="CheckInfo()" />
+        <input type="submit" value="Create-Account" class="signUp" />
     </form>
 </body>
 </html>
