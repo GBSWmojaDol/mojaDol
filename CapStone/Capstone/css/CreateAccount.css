@@ -25,13 +25,13 @@
 }
 
 #login-form input[type = "submit"]:hover {
-    background-color: #21355B;
+    background-color: #FF918A;
     color: #fff;
 }
 
 #login-form .signUp {
     border: none;
-    background-color: #8092A3;
+    background-color: #FF8063;
     color: #000;
     cursor: pointer;
     transition: 0.3s;
@@ -42,12 +42,12 @@
 }
 
 #login-form button:hover {
-    background-color: #21355B;
+    background-color: #FF918A;
     color: #fff;
 }
 
 #login-form input:not([type = "submit"]) {
-    border-bottom: 1px solid rgba( 0, 0, 0, 0.2);
+    border-bottom: 1px solid #FF8063;
     transition: border-color 0.3s ease-in-out;
 }
 
@@ -57,7 +57,7 @@
 }
 
 #login-form input:focus {
-    border-color: #21355B;
+    border-color: #FF918A;
     outline: none;
 }
 
@@ -70,7 +70,7 @@
 }
 
 #login-form a:hover {
-    color: #21355B;
+    color: #FF918A;
 }
 
 .login-check {
@@ -79,4 +79,8 @@
     color: white;
     background-color: #FF8063;
     box-shadow: 0 0 2px #FF8063;
+}
+
+.login-check:hover {
+    background-color: #FF918A;
 }
