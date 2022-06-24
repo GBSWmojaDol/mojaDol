@@ -1,14 +1,8 @@
-@import "./style.css";
-
-.bottom-bar {
-  border-bottom: 1px solid #CCD3D8;
-  margin-bottom: 25px;
-}
-
 .fa-xmark {
   font-size: 40px;
-  padding-left: 5px;
+  padding-left: 20px;
   padding-top: 5px;
+  color: #FF8063;
 }
 
 .bottom-ui {
@@ -19,7 +13,7 @@
   border: 0;
   width: 95%;
   font-size: 18px;
-  border-bottom: 1px solid #CCD3D8;
+  border-bottom: 1px solid #FF8063;
   margin-top: 30px;
   margin-left: 20px;
   padding: 15px 0px;
@@ -29,7 +23,7 @@
   border: 0;
   width: 95%;
   font-size: 18px;
-  border-bottom: 1px solid #CCD3D8;
+  border-bottom: 1px solid #FF8063;
   margin-top: 30px;
   margin-left: 20px;
   padding: 15px 0px;
@@ -39,7 +33,7 @@
   border: 0;
   width: 95%;
   font-size: 18px;
-  border-bottom: 1px solid #CCD3D8;
+  border-bottom: 1px solid #FF8063;
   margin-top: 30px;
   margin-left: 20px;
   padding: 15px 0px;
@@ -58,29 +52,40 @@
 
 #first_num {
   border: 0;
-  border-bottom: 1px solid #CCD3D8;
+  border-bottom: 1px solid #FF8063;
   width: 15%;
   font-size: 18px;
-  color: rgb(118, 118, 118);
+  color: black;
   padding: 13px 0px;
 }
 
 #middle_num {
   border: 0;
-  border-bottom: 1px solid #CCD3D8;
+  border-bottom: 1px solid #FF8063;
   width: 15%;
   font-size: 18px;
-  color: rgb(118, 118, 118);
+  color: black;
   padding: 13px 0px;
 }
 
 #end_num {
   border: 0;
-  border-bottom: 1px solid #CCD3D8;
+  border-bottom: 1px solid #FF8063;
   width: 15%;
   font-size: 18px;
-  color: rgb(118, 118, 118);
+  color: black;
   padding: 13px 0px;
+}
+
+.menu {
+  margin-top: 15px;
+}
+
+#menu {
+  border: 0;
+  border-bottom: 1px solid #FF8063;
+  width: 15%;
+  margin-left: 20px;
 }
 
 .Check_Groups {
@@ -100,7 +105,7 @@
   border: 0;
   width: 95%;
   font-size: 18px;
-  border-bottom: 1px solid #CCD3D8;
+  border-bottom: 1px solid #FF8063;
   margin-top: 30px;
   margin-left: 20px;
   padding: 15px 0px;
@@ -119,9 +124,22 @@
 
 #Category {
   border: 0;
-  border-bottom: 1px solid #CCD3D8;
+  border-bottom: 1px solid #FF8063;
   width: 22%;
   font-size: 18px;
   color: rgb(118, 118, 118);
   padding: 13px 0px;
+}
+
+#create-shop {
+  margin-top: 30px;
+  border: 0;
+  border-radius: 5px;
+  background-color: #FF8063;
+  color: white;
+  box-shadow: 0 0 3px #FF8063;
+}
+
+#create-shop:hover {
+  background-color: #FF818A;
 }
