@@ -81,12 +81,49 @@
   margin-top: 15px;
 }
 
-#menu {
+#menuName {
   border: 0;
   border-bottom: 1px solid #FF8063;
-  width: 15%;
+  width: 10%;
   margin-left: 20px;
+  padding: 5px 0px;  
 }
+
+#menuPrice {
+  border: 0;
+  border-bottom: 1px solid #FF8063;
+  width: 10%;
+  margin-left: 10px;
+  padding: 5px 0px;  
+ }
+
+ #menuImage {
+  display: none;
+ }
+
+ #image_label {
+  display: inline-block;
+  border: 1px solid #FF8063;
+  background-color: white;
+  color: #FF8063;
+  border-radius: 2px;
+  width: 100px;
+  text-align: center;
+  font-size: 3px;
+  padding: 5px 0px;
+  transition: all 0.4s;
+  margin-left: 1%;
+ }
+
+ #image_label:hover {
+  background-color: #FF8063;
+  color: #FFF;
+ }
+
+ .won {
+  font-weight: bold;
+  font-size: 10px;
+ }
 
 .Check_Groups {
   margin-top: 30px;
