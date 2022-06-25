@@ -1,10 +1,12 @@
 @import './Search.css';
 @import './style.css';
 
-.fa-ban {
-  color: #21355B;
-  font-size: 100px;
-  margin-left: auto;
+/*  */
+
+.fa-house {
+  color: white;
+  font-size: 25px;
+  margin-left: 10px;
   margin-right: auto;
 }
 
@@ -28,4 +30,38 @@
 
 .search-box {
   margin-bottom: 9px;
+}
+
+/* 여기선 AfterSearching.html 코드 */
+
+.store-layout {
+  border: 1px solid black;
+  border-radius: 8px;
+  border: 0;
+  box-shadow: 0 0 5px gray;
+  width: 60%;
+  height: 100px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.store-container {
+  padding-top: 20px;
+}
+
+@media (min-width: 540px) {
+  .store-layout {
+    width: 330px;
+  }
+}
+
+.store_name {
+  display: block;
+  font-weight: bold;
+}
+
+.store_addr {
+  font-size: 10px;
+  font-weight: bold;
 }
