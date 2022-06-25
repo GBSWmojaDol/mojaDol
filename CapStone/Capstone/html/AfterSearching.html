@@ -1,42 +1,83 @@
 <!DOCTYPE html>
-<html lang="en">
-<!-- <i class="fa-solid fa-cloud-showers-heavy"></i> -->
+<html lang="ko">
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/699db093f5.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="../css/style.css">
-    <title>Not Information</title>
+    <link rel="stylesheet" href="../css/AfterSearching.css">
+    <title>Search</title>
 </head>
-
+<style>
+    .bottom-header {
+        text-align: center;
+    }
+</style>
 <body>
-    <header class="top-header">
-        <form id="search-form" action="#" method="get">
-            <div id="search">
-                <div class="icon-search">
-                    <div>
-                        <a href="./Main.html">
-                            <i class="fa-solid fa-house fa-2x"></i>
-                        </a>
-                    </div>
-                    <div class="sfield">
-                        <input type="text" placeholder="검색할 식당을 입력하세요." class="search-box sinput" media="screen">
-                        <a href="./AfterSearching.html"><i class="fa-solid fa-magnifying-glass icon sicon"></i></a>
-                    </div>
-                    <div></div>
+    <header class="main-header">
+        <div id="search">
+            <div class="icon-search">
+                <div>
+                    <a href="{{ url('/') }}/Main">
+                        <i class="fa-solid fa-arrow-left fa-2x"></i>
+                    </a>
                 </div>
+                <div class="sfield">
+                    <input type="text" placeholder="검색할 식당을 입력하세요." class="search-box sinput" media="screen"
+                        name="value" onkeyup="if(window.event.keyCode==13){onClick()}">
+                    <input type="button" id="search-btn" onclick="onClick()">
+                    <label for="search-btn"><i class="fa-solid fa-magnifying-glass icon sicon"></i></label>
+                </div>
+                <div></div>
             </div>
-            <div id="under-line2"></div>
-        </form>
-    </header>
-    <header class="bottom-header">
-        <div>
-            <i class="fa-solid fa-ban"></i>
-            <p id="NotFound_Text">검색한 식당의 결과를 찾을 수 없습니다.</p>
         </div>
     </header>
+    <header class="bottom-header">
+    </header>
+
 </body>
+<script>
+    function onClick() {
+        let value = document.querySelector('[name="value"]').value;
+
+        fetch('http://127.0.0.1:8000/api/search/' + value, {
+            headers: {
+                access_token: "hrOQHuo3oE6FR82RIiX1SNLgqSB4iHaCzoMaQzBy+dE="
+            }
+        }).then((response) => response.json()).then(
+            (datas) => {
+                console.log(datas)
+                if (datas.length == 0) {
+                    if (document.querySelector("#NotFound_Text") === null) {
+                        let p = document.createElement("p");
+                        p.innerHTML = "검색한 식당의 결과를 찾을 수 없습니다.";
+                        p.id = "NotFound_Text";
+                        let img = document.createElement("img");
+                        img.src = "img/ban.png";
+                        img.id = "NotFound-icon";
+                        img.width = "200"
+
+                        document.querySelector(".bottom-header").appendChild(img);
+                        document.querySelector(".bottom-header").appendChild(p);
+                    }
+                } else {
+                    if (document.querySelector("#NotFound_Text") !== null) {
+                        document.querySelector("#NotFound_Text").remove()
+                        document.querySelector("#NotFound-icon").remove()
+                    }
+                    for (let i = 0; i < datas.length; i++) {
+                        let a = document.createElement("a");
+                        a.innerHTML = datas[i].title;
+                        a.href = "/shop/list/" + datas[i].id;
+                        document.querySelector(".bottom-header").appendChild(a);
+                        let br = document.createElement("br");
+                        document.querySelector(".bottom-header").appendChild(br);
+                    }
+                }
+            }
+        );
+    }
+</script>
 
 </html>
