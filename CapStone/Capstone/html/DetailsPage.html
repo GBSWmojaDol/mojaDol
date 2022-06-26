@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body style="margin: 0px">
-    <header class="search-header main-header">
+    <header class="search-header">
         <div id="search">
             <div class="icon-search1">
                 <a href="./Main.html"><img src="../img/right-arrow.png" alt="arrow"class="arrow-icon"></a>
@@ -98,6 +98,7 @@
                         <input type="radio" id="checking">
                         <label for="checking"><i class="fa-solid fa-thumbs-up" id="like-btn"></i></label>
                     </div>
+                    <div class="report-reivew"><i class="fa-solid fa-bell"></i></div>
                 </div>
                 <img src="../img/Domino.jpg" alt="domino">
             </li>
@@ -108,6 +109,7 @@
                         <input type="radio" id="checking">
                         <label for="checking"><i class="fa-solid fa-thumbs-up" id="like-btn"></i></label>
                     </div>
+                    <div class="report-reivew"><i class="fa-solid fa-bell"></i></div>
                 </div>
                 <img src="../img/Domino.jpg" alt="domino">
             </li>
@@ -118,6 +120,7 @@
                         <input type="radio" id="checking">
                         <label for="checking"><i class="fa-solid fa-thumbs-up" id="like-btn"></i></label>
                     </div>
+                    <div class="report-reivew"><i class="fa-solid fa-bell"></i></div>
                 </div>
                 <img src="../img/Domino.jpg" alt="domino">
             </li>
@@ -128,6 +131,7 @@
                         <input type="radio" id="checking">
                         <label for="checking"><i class="fa-solid fa-thumbs-up" id="like-btn"></i></label>
                     </div>
+                    <div class="report-reivew"><i class="fa-solid fa-bell"></i></div>
                 </div>
                 <img src="../img/Domino.jpg" alt="domino">
             </li>
@@ -138,10 +142,38 @@
                         <input type="radio" id="checking">
                         <label for="checking"><i class="fa-solid fa-thumbs-up" id="like-btn"></i></label>
                     </div>
+                    <div class="report-reivew"><i class="fa-solid fa-bell"></i></div>
                 </div>
                 <img src="../img/Domino.jpg" alt="domino">
             </li>
-            <li><button id="show-review">리뷰 작성 하기</button></li>
+            <li>
+                <button id="show">후기 작성</button>
+                <div class="background">
+                <div class="window">  
+                    <button id="close">돌아가기</button>    
+                    <form action="" method="post" enctype="multipart/form-data" >
+                        <div class="review-container" id="show-div">
+                        <div class="review-area">
+                            <input type="file" id="file">
+                            <label for="file" class="Image-in-Textarea">사진넣기</label>
+                            <textarea id="text"></textarea>
+                        </div>
+                        <div class="star-rating space-x-4 mx-auto">
+                            <input type="radio" id="5-stars" name="rating" value="5" v-model="ratings"/>
+                            <label for="5-stars" class="star pr-4">★</label>
+                            <input type="radio" id="4-stars" name="rating" value="4" v-model="ratings"/>
+                            <label for="4-stars" class="star">★</label>
+                            <input type="radio" id="3-stars" name="rating" value="3" v-model="ratings"/>
+                            <label for="3-stars" class="star">★</label>
+                            <input type="radio" id="2-stars" name="rating" value="2" v-model="ratings"/>
+                            <label for="2-stars" class="star">★</label>
+                            <input type="radio" id="1-star" name="rating" value="1" v-model="ratings" />
+                            <label for="1-star" class="star">★</label>
+                        </div>
+                        <input type="submit" value="작성하기" class="Add_Review"/>
+                        </div>
+                    </form>
+            </li>
         </ul>
         <ul class="main-screen__last-info">
             <li>
@@ -159,6 +191,7 @@
         </ul>
     </main>
 </body>
+<script src="../js/PopUp.js"></script>
 <script src="https://kit.fontawesome.com/97a77746ec.js" crossorigin="anonymous"></script>
 <script src="../js/accordion.js"></script>
 </html>

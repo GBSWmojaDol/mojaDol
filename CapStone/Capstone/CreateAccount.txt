@@ -46,10 +46,7 @@
     color: #fff;
 }
 
-#login-form input:not([type = "submit"]) {
-    border-bottom: 1px solid #FF8063;
-    transition: border-color 0.3s ease-in-out;
-}
+
 
 
 #login-form input::placeholder {

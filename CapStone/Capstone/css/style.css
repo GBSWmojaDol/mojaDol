@@ -3,6 +3,7 @@
 @import './AfterSearching.css';
 @import './Category.css';
 @import './details.css';
+@import './AddReview.css';
 
 /* component */
 @import './components/welcome.css';

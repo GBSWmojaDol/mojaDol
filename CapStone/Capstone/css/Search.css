@@ -36,8 +36,11 @@
   font-weight: bold;
 }
 
+
+
 .icon-search {
   display: flex;
+  height: 50px;
   justify-content: space-between;
   align-items: center;
   padding-inline-start: 0px;

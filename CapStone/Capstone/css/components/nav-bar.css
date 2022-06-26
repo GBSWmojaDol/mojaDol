@@ -4,9 +4,9 @@
     left: 0;
     width: 100%;
     background-color: #f9f9fa;
-    padding: 0px 50px;
+    padding: 10px 50px;
     box-sizing: border-box;
-    border-top: 1px solid #8092A3;
+    border-top: 1px solid #000;
 }
 
 .nav-list {

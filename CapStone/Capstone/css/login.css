@@ -12,21 +12,17 @@
     margin-bottom: 25px;
     transition: border-color 0.3s ease-in-out;
 }
-
 #login-form input[type = "submit" ] {
     border-bottom: none;
-    background-color: #8092A3;
-    color: #000;
+    background-color: #FF8063;
+    box-shadow: 0 0 2px #FF8063;
+    color: white;
     cursor: pointer;
     transition: 0.3s;
     border-radius: 5px;
     padding: 20px 0px;
 }
 
-#login-form input[type = "submit"]:hover {
-    background-color: #21355B;
-    color: #fff;
-}
 
 #login-form input:not([type = "submit"]) {
     border-bottom: 1px solid rgba( 0, 0, 0, 0.2);
@@ -39,7 +35,7 @@
 }
 
 #login-form input:focus {
-    border-color: #21355B;
+    border-color: #FF8063;
     outline: none;
 }
 
@@ -51,9 +47,6 @@
     transition: 0.3s;
 }
 
-#login-form a:hover {
-    color: #21355B;
-}
 
 #create-form {
     display: flex;
@@ -73,8 +66,8 @@
 #create-form a {
     border: none;
     text-align: center;
-    background-color: #8092A3;
-    color: #000;
+    background-color: #FF8063;
+    color: #fff;
     cursor: pointer;
     transition: 0.3s;
     border-radius: 5px;
@@ -83,8 +76,13 @@
     margin-bottom: 25px;
 }
 
-#create-form a:hover {
-    background-color: #21355B;
-    color: #fff;
+.login-check {
+    border-bottom: none;
+    background-color: #FF8063;
+    box-shadow: 0 0 2px #FF8063;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 5px;
+    padding: 20px 0px;
 }
-

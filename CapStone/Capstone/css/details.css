@@ -6,6 +6,11 @@
     padding: 0px 10px;
 }
 
+.icon-search1 a img {
+    width: 30px;
+    transform: rotate(180deg);
+}
+
 .like-rating {
     display: flex;
     font-size: 1rem;
@@ -35,7 +40,7 @@
     -webkit-text-fill-color: #FF8063;
 }
 
-#show-review {
+#show {
     border: none;
     padding: 10px;
     background-color: #FF918A;
@@ -51,5 +56,10 @@
 
 .review-list {
     border-bottom: 50px solid #eee;
+}
+
+.report-reivew {
+    color: red;
+    margin-top: 10px;
 }
 

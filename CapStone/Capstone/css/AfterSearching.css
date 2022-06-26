@@ -36,7 +36,7 @@
 
 .store-layout {
   border: 1px solid black;
-  border-radius: 8px;
+  border-radius: 3px;
   border: 0;
   box-shadow: 0 0 5px gray;
   width: 60%;
@@ -48,6 +48,7 @@
 
 .store-container {
   padding-top: 20px;
+  text-align: center;
 }
 
 @media (min-width: 540px) {
@@ -65,3 +66,4 @@
   font-size: 10px;
   font-weight: bold;
 }
+
