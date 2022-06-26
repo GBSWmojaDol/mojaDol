@@ -17,7 +17,7 @@
 
 .main-screen__rel form select {
     border: none;
-    background-color: #262a2d;
+    background-color: #FF8063;
     padding: 10px 10px;
     border-radius: 2px;
     width: 180px;
@@ -33,7 +33,7 @@
     font-size: 15px;
     border-radius: 2px;
     color: #fff;
-    background-color: #262a2d;
+    background-color: #FF8063;
     transition: 0.3s;
 }
 
