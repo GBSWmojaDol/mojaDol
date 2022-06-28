@@ -67,6 +67,6 @@
 <p><a href="https://github.com/GBSWmojaDol/mojaDol/blob/master/ReadMe/%EA%B3%84%ED%9A%8D%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pptx">계획 발표 자료</a></p>
   
 ## 중간 발표 자료
-<p><a href="https://github.com/GBSWmojaDol/mojaDol/blob/master/ReadMe/%EC%A4%91%EA%B0%84%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pptx">계획 발표 자료</a></p>
+<p><a href="https://github.com/GBSWmojaDol/mojaDol/blob/master/ReadMe/%EC%A4%91%EA%B0%84%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pptx">중간 발표 자료</a></p>
   
 ## 최종 발표 자료
