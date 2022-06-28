@@ -36,6 +36,7 @@
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
 
 # 수행 추진 일정
+<img src="ReadMe/수행_추진_일정.png">
 
 # 프로젝트 상세 소개
   
