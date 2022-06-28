@@ -16,6 +16,7 @@
 
 ## 사진
 
+
 ## 이름
 <p><a href="https://github.com/reproduce0529">임재현(백엔드, 팀장) - singing1111pop@gmail.com<a/></p>
 <p><a href="https://github.com/mingyu9570">박민규(프론트) - renge57439570@gmail.com<a/></p>
@@ -46,7 +47,7 @@
   
 # 프로젝트 추진 결과
   
-##결과 분석
+## 결과 분석
   
 ## 유지 보수
   
