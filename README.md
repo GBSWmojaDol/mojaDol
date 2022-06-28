@@ -57,7 +57,8 @@
 # 결과 및 발표 자료
   
 ## 깃허브 저장소 주소
-  
+<a href="https://github.com/GBSWmojaDol/mojaDol">mojadol</a> 
+
 ## 실행 주소
   
 ## 프로젝트 소개 영상 / 팀 소개 영상
