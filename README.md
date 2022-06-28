@@ -16,27 +16,10 @@
 
 ## 이름
 <p><a href="https://github.com/mingyu9570">박민규(프론트) - renge57439570@gmail.com<a/></p>
-<p>박찬현</p>
-<p>이준환</p>
-<p>임재현</p>
+<p><a href="#">박찬현(프론트) - example@example.com<a/></p>
+<p><a href="https://github.com/shell-by">이준환(백엔드) - wnsghks1026@naver.com<a/></p>
+<p><a href="https://github.com/reproduce0529">임재현(백엔드, 팀장) - singing1111pop@gmail.com<a/></p>
 
-## 이메일
-<p>박민규 - renge57439570@gmail.com</p>
-<p>박찬현 - </p>
-<p>이준환 - wnsghks1026@naver.com</p>
-<p>임재현 - singing1111pop@gmail.com</p>
-
-## 역할
-<p>박민규 - 프론트</p>
-<p>박찬현 - 프론트</p>
-<p>이준환 - 백엔드</p>
-<p>임재현 - 백엔드, 팀장</p>
-
-## 깃허브
-<p>박민규 - <a href="https://github.com/mingyu9570">mingyu9570</a></p>
-<p>박찬현 - </p>
-<p>이준환 - <a href="https://github.com/shell-by">shell-by</a></p>
-<p>임재현 - <a href="https://github.com/reproduce0529">reproduce0529</a></p>
 # 사용 기술
 
 ## 개발에 사용한 기술
