@@ -50,7 +50,7 @@
   
 ## 데이터베이스 / 데이터 플로우 / 시스템 구조
   ### 데이터베이스
-    <img src="ReadMe/데이터베이스_ERD.png">
+  <img src="ReadMe/데이터베이스_ERD.png">
   
 ## 세부 수행 과정
   
