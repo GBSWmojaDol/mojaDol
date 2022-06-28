@@ -23,6 +23,7 @@
 # 팀 소개
 
 ## 사진
+<img src="ReadMe/팀원_사진.png">
 
 ## 이름
 <p><a href="https://github.com/reproduce0529">임재현(백엔드, 팀장) - singing1111pop@gmail.com<a/></p>
