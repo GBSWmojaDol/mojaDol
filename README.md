@@ -37,7 +37,10 @@
 <p>박찬현 - </p>
 <p>이준환 - <a href="https://github.com/shell-by">shell-by</a></p>
 <p>임재현 - <a href="https://github.com/reproduce0529">reproduce0529</a></p>
-
+# 사용 기술
+## 개발에 사용한 기술
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=javascript&logoColor=black"/></a>
+## 개발에 소쇼된 물품 및 준비물
