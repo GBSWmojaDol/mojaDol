@@ -15,7 +15,7 @@
 ## 사진
 
 ## 이름
-<p><a href="https://github.com/mingyu9570">박민규 - 프론트 - renge57439570@gmail.com</a></p>
+<p>박민규</p>
 <p>박찬현</p>
 <p>이준환</p>
 <p>임재현</p>
