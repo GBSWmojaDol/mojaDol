@@ -16,7 +16,6 @@
 
 ## 사진
 
-
 ## 이름
 <p><a href="https://github.com/reproduce0529">임재현(백엔드, 팀장) - singing1111pop@gmail.com<a/></p>
 <p><a href="https://github.com/mingyu9570">박민규(프론트) - renge57439570@gmail.com<a/></p>
@@ -53,7 +52,7 @@
   
 # 결과 및 발표 자료
   
-##깃허브 저장소 주소
+## 깃허브 저장소 주소
   
 ## 실행 주소
   
