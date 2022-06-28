@@ -15,13 +15,13 @@
 ## 사진
 
 ## 이름
-<p>박민규</p>
+<p>박민규 - renge57439570@gmail.com - 프론트</p>
 <p>박찬현</p>
 <p>이준환</p>
 <p>임재현</p>
 
 ## 이메일
-<p>박민규 - renge57439570@gmail.com</p>
+<p>박민규 - renge57439570@gmail.com - <a href="https://github.com/mingyu9570">mingyu9570</a></p>
 <p>박찬현 - </p>
 <p>이준환 - wnsghks1026@naver.com</p>
 <p>임재현 - singing1111pop@gmail.com</p>
