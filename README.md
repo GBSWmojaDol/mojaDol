@@ -30,4 +30,34 @@
 <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
 
-## 개발에 소요된 물품 및 준비물
+# 수행 추진 일정
+
+# 프로젝트 상세 소개
+  
+## 레이아웃 세부 설명
+  
+## 데이터베이스 / 데이터 플로우 / 시스템 구조
+  
+## 세부 수행 과정
+  
+# 사용자 수행 흐름도
+  
+# 프로젝트 추진 결과
+  
+##결과 분석
+  
+## 유지 보수
+  
+# 결과 및 발표 자료
+  
+##깃허브 저장소 주소
+  
+## 실행 주소
+  
+## 프로젝트 소개 영상 / 팀 소개 영상
+  
+## 계획 발표 자료
+  
+## 중간 발표 자료
+  
+## 최종 발표 자료
