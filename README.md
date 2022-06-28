@@ -32,9 +32,9 @@
 <p>이준환 - 백엔드</p>
 <p>임재현 - 백엔드, 팀장</p>
 
-##깃허브
+## 깃허브
 <p>박민규 - <a href="https://github.com/mingyu9570">mingyu9570</a></p>
-<p>박찬현</p>
+<p>박찬현 - </p>
 <p>이준환 - <a href="https://github.com/shell-by">shell-by</a></p>
 <p>임재현 - <a href="https://github.com/reproduce0529">reproduce0529</a></p>
 
