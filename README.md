@@ -98,7 +98,7 @@
   <img src="ReadMe/데이터베이스_ERD.png">
   
   ### 시스템 구조
-  
+  <img src="ReadMe/시스템_구조.png">
   
 ## 세부 수행 과정
   
