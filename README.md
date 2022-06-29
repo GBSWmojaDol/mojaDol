@@ -119,7 +119,7 @@
   
   
 ## 깃허브 저장소 주소
-<a href="https://github.com/GBSWmojaDol/mojaDol">
+<a href="https://github.com/GBSWmojaDol">
   mojadol
 </a> 
 
