@@ -105,10 +105,10 @@
   <img src="ReadMe/시스템_구조.png">
   
 ## 세부 수행 과정
-  <img src="ReadMe/시스템_구조.png">
+  <img src="ReadMe/세부_수행_과정.png">
   
 # 사용자 수행 흐름도
-  <img src="ReadMe/세부_수행_과정.png">
+  <img src="ReadMe/사용자_수행_흐름도.png">
   
 # 프로젝트 추진 결과
   
