@@ -57,7 +57,7 @@
 ## 이름
 <p>
   <a href="https://github.com/reproduce0529">
-    (백엔드, 팀장) - singing1111pop@gmail.com
+    임재현(백엔드, 팀장) - singing1111pop@gmail.com
   <a/>
 </p>
 <p>
