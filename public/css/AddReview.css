@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .review-container {
+    margin: 120px auto 0 auto;
+    width: 480px;
+    height: 500px;
+  }
+
+  #file {
+    display: none;
+    margin: 0 auto 0 auto;
+  }
+
+  .Image-in-Textarea {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background-color: #FF8063;
+    border-radius: 5px;
+    margin: auto;
+  }
+
+  #text {
+    display: block;
+    width: 400px;
+    height: 300px;
+    resize: none;
+    border: none;
+    border-radius: 2px;
+    margin: 10px auto 0 auto;
+    font-weight: bold;
+    box-shadow: 0 0 3px gray;
+    padding: 3px;
+  }
+
+  #title {
+    display: block;
+    margin-left: 55px;
+    margin-top: 10px;
+    width: 300px;
+    height: 27px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 0 2px gray;
+    padding: 10px 10px;
+  }
+
+  .Add_Review {
+    display: block;
+    border: 0;
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background-color: #FF8063;
+    border-radius: 5px;
+    margin: 20px auto 0 auto;
+  }
+
+
+  /* 별점 */
+
+  .star-rating {
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 2rem;
+    line-height: 2rem;
+    text-align: center;
+    letter-spacing: 9px;
+    margin-right: 140px;
+    margin-top: 5px;
+  }
+
+  .star-rating input {
+    display: none;
+  }
+
+  .star-rating label {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2.2px;
+    -webkit-text-stroke-color: #2b2a29;
+    cursor: pointer;
+  }
+
+  .star-rating :checked ~ label {
+    -webkit-text-fill-color: #FFD700;
+  }
+
+  .star-rating label:hover,
+  .star-rating label:hover ~ label {
+    -webkit-text-fill-color: #FFE388;
+  }
