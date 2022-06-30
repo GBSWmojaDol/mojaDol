@@ -96,7 +96,22 @@
   
 ## 레이아웃 세부 설명
 <p>CreateAccount - 회원가입을하는 레이아웃이며 주소는 카카오 API를 이용하여 받아옵니다. </p>
-<img src="ReadMe/CreateAccount.Png"> 
+<img src="ReadMe/CreateAccount.png"> 
+
+<p>ModifyAccount - 회원정보를 수정하는 레이아웃입니다. </p>
+<img sec="ReadMe/ModifyAccount.png">
+
+<p>AddStore - 가게를 만드는 레이아웃입니다. </p>
+<img sec="ReadMe/AddStore.png">
+
+<p>StoreUpdate - 가게의 정보를 수정하는 레이아웃입니다. </p>
+<img sec="ReadMe/StoreUpdate.png">
+
+<p>Search - 가게의 이름을 검색하는 레이아웃입니다. </p>
+<img sec="ReadMe/search.png">
+
+<p>AfterSearching - 가게의 검색정보를 보여주는 레이아웃입니다. </p>
+<img sec="ReadMe/AfterSearching.png">
   
 ## 데이터베이스 / 데이터 플로우 / 시스템 구조
   
