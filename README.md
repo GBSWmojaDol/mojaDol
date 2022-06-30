@@ -95,6 +95,8 @@
 # 프로젝트 상세 소개
   
 ## 레이아웃 세부 설명
+<p>CreateAccount - 회원가입을하는 레이아웃이며 주소는 카카오 API를 이용하여 받아옵니다. </p>
+<img src="ReadMe/CreateAccount.Png"> 
   
 ## 데이터베이스 / 데이터 플로우 / 시스템 구조
   
