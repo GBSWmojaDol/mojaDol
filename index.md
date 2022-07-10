@@ -5,7 +5,7 @@
         <hr>
         <h3>음식점 정보 공유 사이트 [맛집탐색기]에 대한 설명입니다. </h3>
         <br>
-        <a href="#index"><h3 id="index">목차</h3></a>
+        <a href="#index"><h3 id="index">목차</a></h3>
         <hr>
         <ul>
           <li>
