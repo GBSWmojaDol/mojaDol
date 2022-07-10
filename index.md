@@ -55,10 +55,10 @@
         <br>
         <a href="#team-name"><h2 id="team-name">이름</h2></a>
         <hr>
-        <a hre="https://github.com/reproduce0529">임재현(백엔드, 팀장) - singing1111pop@gmail.com</a> <br>
-        <a hre="https://github.com/shell-by">이준환(백엔드) - wnsghks1026@naver.com</a> <br>
-        <a hre="https://github.com/mingyu9570">박민규(프론트) - renge57439570@gmail.com</a> <br>
-        <a hre="https://github.com/hanavi999">박찬현(프론트) - chanhyeon777@gmail.com</a> <br>
+        <a href="https://github.com/reproduce0529">임재현(백엔드, 팀장) - singing1111pop@gmail.com</a> <br>
+        <a href="https://github.com/shell-by">이준환(백엔드) - wnsghks1026@naver.com</a> <br>
+        <a href="https://github.com/mingyu9570">박민규(프론트) - renge57439570@gmail.com</a> <br>
+        <a href="https://github.com/hanavi999">박찬현(프론트) - chanhyeon777@gmail.com</a> <br>
         <br>
         <a href="#tech"><h2 id="tech">사용 기술</h2></a>
         <hr>
