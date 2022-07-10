@@ -74,7 +74,7 @@
         <a href="https://github.com/mingyu9570">박민규(프론트) - renge57439570@gmail.com</a> <br>
         <a href="https://github.com/hanavi999">박찬현(프론트) - chanhyeon777@gmail.com</a> <br>
         <br>
-        <a href="#tech"><h2 id="tech">사용 기술</h2></a>
+        <a href="#tech"><h1 id="tech">사용 기술</h1></a>
         <hr>
         <a href="#tech-use"><h2 id="tech-use">개발에 사용한 기술</h2></a>
         <hr>
@@ -85,10 +85,10 @@
         <a href="#tech-use"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
         <br>
         <br>
-        <a href="#calendar"><h2 id="calendar">수행 추진 일정</h2></a>
+        <a href="#calendar"><h1 id="calendar">수행 추진 일정</h1></a>
         <hr>
         <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/%EC%88%98%ED%96%89_%EC%B6%94%EC%A7%84_%EC%9D%BC%EC%A0%95.png" alt="수행 추진 일정" >
-        <a href="#detail"><h2 id="detail">프로젝트 상세 소개</h2></a>
+        <a href="#detail"><h1 id="detail">프로젝트 상세 소개</h1></a>
         <hr>
         <a href="#layout"><h2 id="layout">레이아웃 세부 설명</h2></a>
         <hr>
@@ -123,4 +123,8 @@
         <a href="#detail-process"><h2 id="detail-process">세부 수행 과정</h2></a>
         <hr>
         <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/%EC%84%B8%EB%B6%80_%EC%88%98%ED%96%89_%EA%B3%BC%EC%A0%95.png">
+        <br>
+        <a href="#user-flow"><h1 id="user-flow">사용자 수행 흐름도</h1></a>
+        <hr>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%88%98%ED%96%89_%ED%9D%90%EB%A6%84%EB%8F%84.png">
         <br>
