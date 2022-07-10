@@ -81,15 +81,21 @@
         <hr>
         <a href="#"><h2>레이아웃 세부 설명</h2></a>
         <hr>
-        CreateAccount - 회원가입을하는 레이아웃이며 주소는 카카오 API를 이용하여 받아옵니다. <br>
-        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/CreateAccount.png" alt="수행 추진 일정" >
-        <br>
-        ModifyAccount - 회원정보를 수정하는 레이아웃입니다. <br>
-        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/ModifyAccount.png" alt="수행 추진 일정" >
-        <br>
-        AddStore - 가게를 만드는 레이아웃입니다. <br>
-        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/AddStore.png" alt="수행 추진 일정" >
-        <br>
-        StoreUpdate - 가게의 정보를 수정하는 레이아웃입니다. <br>
-        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/StoreUpdate.png" alt="수행 추진 일정" >
-        <br>
+        CreateAccount - 회원가입을하는 레이아웃이며 주소는 카카오 API를 이용하여 받아옵니다. <br><br>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/CreateAccount.png" alt="CreateAccount" >
+        <br><br>
+        ModifyAccount - 회원정보를 수정하는 레이아웃입니다. <br><br>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/ModifyAccount.png" alt="ModifyAccount" >
+        <br><br>
+        AddStore - 가게를 만드는 레이아웃입니다. <br><br>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/AddStore.png" alt="AddStore" >
+        <br><br>
+        StoreUpdate - 가게의 정보를 수정하는 레이아웃입니다. <br><br>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/StoreUpdate.png" alt="StoreUpdate" >
+        <br><br>
+        Search - 가게의 이름을 검색하는 레이아웃입니다. <br><br>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/Search.png" alt="Search" >
+        <br><br>
+        AfterSearching - 가게의 검색정보를 보여주는 레이아웃입니다.<br><br>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/AfterSearching.png" alt="AfterSearching" >
+        <br><br>
