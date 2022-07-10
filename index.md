@@ -103,7 +103,7 @@
         <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/StoreUpdate.png" alt="StoreUpdate" >
         <br><br>
         Search - 가게의 이름을 검색하는 레이아웃입니다. <br><br>
-        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/Search.png" alt="Search" >
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/search.png" alt="Search" >
         <br><br>
         AfterSearching - 가게의 검색정보를 보여주는 레이아웃입니다.<br><br>
         <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/AfterSearching.png" alt="AfterSearching" >
