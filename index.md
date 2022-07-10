@@ -41,6 +41,7 @@
               <li><a href="#detail-process">세부 수행 과정</a></li>
             </ul>
           </li>
+          <li><a href="#user-flow">사용자 수행 흐름도</a></li>
         </ul>
         <br>
         <a href="#topic"><h2 id="topic">프로젝트 주제</h2></a>
