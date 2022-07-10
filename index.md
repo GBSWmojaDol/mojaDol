@@ -72,4 +72,4 @@
         <br>
         <a href="#"><h2>수행 추진 일정</h2></a>
         <hr>
-        <img src="https://github.com/GBSWmojaDol/mojaDol/blob/master/ReadMe/%EC%88%98%ED%96%89_%EC%B6%94%EC%A7%84_%EC%9D%BC%EC%A0%95.png" alt="팀 사진" >
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/%EC%88%98%ED%96%89_%EC%B6%94%EC%A7%84_%EC%9D%BC%EC%A0%95.png" alt="수행 추진 일정" >
