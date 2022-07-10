@@ -65,10 +65,11 @@
         <a href="#tech-use"><h2 id="tech-use">개발에 사용한 기술</h2></a>
         <hr>
         프론트 : <a href="#tech-use"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-
-<a href="#tech-use"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"/></a>
-<a href="#tech-use"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a> <br>
-백엔드 :
-<a href="#tech-use"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></a>
-<a href="#tech-use"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
-<br>
+        <a href="#tech-use"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"/></a>
+        <a href="#tech-use"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a> <br>
+        백엔드 : <a href="#tech-use"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></a>
+        <a href="#tech-use"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
+        <br>
+        <a href="#"><h2>수행 추진 일정</h2></a>
+        <hr>
+        <img src="https://github.com/GBSWmojaDol/mojaDol/blob/master/ReadMe/%EC%88%98%ED%96%89_%EC%B6%94%EC%A7%84_%EC%9D%BC%EC%A0%95.png" alt="팀 사진" >
