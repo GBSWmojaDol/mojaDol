@@ -33,7 +33,7 @@
         <br>
         <a href="#topic"><h2 id="topic">프로젝트 주제</h2></a>
         <hr>
-        <h3>맛집 정보 공유 사이트 </h3>
+        맛집 정보 공유 사이트
         <br>
         <a href="#motivation"><h2 id="motivation">개발 동기</h2></a>
         <hr>
