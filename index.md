@@ -129,3 +129,17 @@
         <hr>
         <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%88%98%ED%96%89_%ED%9D%90%EB%A6%84%EB%8F%84.png">
         <br>
+        <a href="#result"><h1 id="result">프로젝트 추진 결과</h1></a>
+        <hr>
+        <a href="#analysis"><h2 id="analysis">결과 분석</h2></a>
+        <hr>
+        <h4>백엔드</h4><br><br>
+        초반 계획서에서 카테고리 검색, 위치로 검색 등의<br>
+        높은 수준을 요구하는 기능은 기술적 어려움으로 구현하지 못했습니다.<br>
+        하지만 상점 정보에서 메뉴에 대한 정보를 주기 위한 기능을 추가했으며,<br>
+        식당 이름의 일부만 검색해도 결과가 나오는 기능으로 변경하였습니다.<br>
+        <h4>프론트엔드</h4><br><br>
+        조금의 디자인 변경을 제외하고<br>
+        초반 계획서에서 구현하고자 했던 대부분의 내용을<br>
+        구현하였습니다.
+        <br>
