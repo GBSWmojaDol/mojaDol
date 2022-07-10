@@ -77,3 +77,19 @@
         <a href="#"><h2>수행 추진 일정</h2></a>
         <hr>
         <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/%EC%88%98%ED%96%89_%EC%B6%94%EC%A7%84_%EC%9D%BC%EC%A0%95.png" alt="수행 추진 일정" >
+        <a href="#"><h2>프로젝트 상세 소개</h2></a>
+        <hr>
+        <a href="#"><h2>레이아웃 세부 설명</h2></a>
+        <hr>
+        CreateAccount - 회원가입을하는 레이아웃이며 주소는 카카오 API를 이용하여 받아옵니다. <br>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/CreateAccount.png" alt="수행 추진 일정" >
+        <br>
+        ModifyAccount - 회원정보를 수정하는 레이아웃입니다. <br>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/ModifyAccount.png" alt="수행 추진 일정" >
+        <br>
+        AddStore - 가게를 만드는 레이아웃입니다. <br>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/AddStore.png" alt="수행 추진 일정" >
+        <br>
+        StoreUpdate - 가게의 정보를 수정하는 레이아웃입니다. <br>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/StoreUpdate.png" alt="수행 추진 일정" >
+        <br>
