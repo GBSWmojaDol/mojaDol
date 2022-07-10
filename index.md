@@ -38,6 +38,7 @@
             <ul>
               <li><a href="#layout">레이아웃 세부 설명</a></li>
               <li><a href="#db-flow-system">데이터베이스 / 데이터 플로우 / 시스템 구조</a></li>
+              <li><a href="#detail-process">세부 수행 과정</a></li>
             </ul>
           </li>
         </ul>
@@ -118,4 +119,8 @@
         <a href="db-flow"><h3 id="db-flow">시스템 구조</h3></a>
         <hr>
         <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/%EC%8B%9C%EC%8A%A4%ED%85%9C_%EA%B5%AC%EC%A1%B0.png">
+        <br>
+        <a href="db-flow"><h2 id="db-flow">세부 수행 과정</h2></a>
+        <hr>
+        <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/%EC%84%B8%EB%B6%80_%EC%88%98%ED%96%89_%EA%B3%BC%EC%A0%95.png">
         <br>
