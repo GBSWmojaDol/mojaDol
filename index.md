@@ -37,6 +37,7 @@
             <a href="#detail">프로젝트 세부 설명</a>
             <ul>
               <li><a href="#layout">레이아웃 세부 설명</a></li>
+              <li><a href="#db-flow-system">데이터베이스 / 데이터 플로우 / 시스템 구조</a></li>
             </ul>
           </li>
         </ul>
