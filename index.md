@@ -21,6 +21,13 @@
             <a href="#About-the-team">팀 소개</a>
             <ul>
               <li><a href="#team-picture">팀 사진</a></li>
+              <li><a href="#team-name">팀 사진</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#tech">사용 기술</a>
+            <ul>
+              <li><a href="#tech-use">개발에 사용한 기술</a></li>
             </ul>
           </li>
         </ul>
@@ -46,5 +53,23 @@
         <a href="#team-picture"><h2 id="team-picture">팀 사진</h2></a>
         <hr>
         <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/%ED%8C%80%EC%9B%90_%EC%82%AC%EC%A7%84.png" alt="팀 사진" >
+        <br>
+        <a href="#team-name"><h2 id="team-name">이름</h2></a>
+        <hr>
+        <a hre="https://github.com/reproduce0529">임재현(백엔드, 팀장) - singing1111pop@gmail.com</a>
+        <a hre="https://github.com/shell-by">이준환(백엔드) - wnsghks1026@naver.com</a>
+        <a hre="https://github.com/mingyu9570">박민규(프론트) - renge57439570@gmail.com</a>
+        <a hre="https://github.com/hanavi999">박찬현(프론트) - chanhyeon777@gmail.com</a>
+        <br>
+        <a href="#tech"><h2 id="tech">사용 기술</h2></a>
+        <hr>
+        <a href="#tech-use"><h2 id="tech-use">개발에 사용한 기술</h2></a>
+        <hr>
+        <h3>프론트 : <a href="#tech-use"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<a href="#tech-use"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"/></a>
+<a href="#tech-use"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a> <br>
+        백엔드 : 
+<a href="#tech-use"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></a>
+<a href="#tech-use"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a></h3>
         <br>
       </div>
