@@ -30,6 +30,15 @@
               <li><a href="#tech-use">개발에 사용한 기술</a></li>
             </ul>
           </li>
+          <li>
+            <a href="#calendar">수행 추진 일정</a>
+          </li>
+          <li>
+            <a href="#detail">프로젝트 세부 설명</a>
+            <ul>
+              <li><a href="#layout">레이아웃 세부 설명</a></li>
+            </ul>
+          </li>
         </ul>
         <br>
         <a href="#topic"><h2 id="topic">프로젝트 주제</h2></a>
@@ -74,12 +83,12 @@
         <a href="#tech-use"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
         <br>
         <br>
-        <a href="#"><h2>수행 추진 일정</h2></a>
+        <a href="#calendar"><h2 id="calendar">수행 추진 일정</h2></a>
         <hr>
         <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/%EC%88%98%ED%96%89_%EC%B6%94%EC%A7%84_%EC%9D%BC%EC%A0%95.png" alt="수행 추진 일정" >
-        <a href="#"><h2>프로젝트 상세 소개</h2></a>
+        <a href="#detail"><h2 id="detail">프로젝트 상세 소개</h2></a>
         <hr>
-        <a href="#"><h2>레이아웃 세부 설명</h2></a>
+        <a href="#layout"><h2 id="layout">레이아웃 세부 설명</h2></a>
         <hr>
         CreateAccount - 회원가입을하는 레이아웃이며 주소는 카카오 API를 이용하여 받아옵니다. <br><br>
         <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/CreateAccount.png" alt="CreateAccount" >
@@ -99,3 +108,5 @@
         AfterSearching - 가게의 검색정보를 보여주는 레이아웃입니다.<br><br>
         <img src="https://raw.githubusercontent.com/GBSWmojaDol/mojaDol/master/ReadMe/AfterSearching.png" alt="AfterSearching" >
         <br><br>
+        <a href="#db-flow-system"><h2 id="db-flow-system">데이터베이스 / 데이터 플로우 / 시스템 구조</h2></a>
+        <hr>
