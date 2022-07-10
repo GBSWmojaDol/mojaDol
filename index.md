@@ -42,9 +42,9 @@
         <br>
         <a href="#target"><h2 id="target">수행 목표</h2></a>
         <hr>
-        <h4장기간의 합동 개발을 통해 실무 경험을 쌓고 팀워크 능력을 기르며, 계획한 프로젝트를 완성하는것에 최선을 다하는 것입니다.<br>
+        <h4>장기간의 합동 개발을 통해 실무 경험을 쌓고 팀워크 능력을 기르며, 계획한 프로젝트를 완성하는것에 최선을 다하는 것입니다.<br>
           또한 팀 프로젝트을 함으로써 실질적으로 어떠한 문제점이 생기고 해결하며 이런 과정을 통해 같은 문제가 생겼을때 유연하게<br>
-          대처할 수 있는 능력을 갖추는 것입니다. </h4
+          대처할 수 있는 능력을 갖추는 것입니다. </h4>
         <br>
         <a href="#About-the-team"><h1 id="About-the-team">팀 소개</h1></a>
         <hr>
@@ -64,11 +64,11 @@
         <hr>
         <a href="#tech-use"><h2 id="tech-use">개발에 사용한 기술</h2></a>
         <hr>
-        <h4프론트 : <a href="#tech-use"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+        <h4>프론트 : <a href="#tech-use"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 
 <a href="#tech-use"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"/></a>
 <a href="#tech-use"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a> <br>
 백엔드 :
 <a href="#tech-use"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></a>
-<a href="#tech-use"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a></h4
+<a href="#tech-use"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a></h4>
 <br>
