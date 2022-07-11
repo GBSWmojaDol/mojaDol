@@ -112,7 +112,8 @@
 <script src="https://kit.fontawesome.com/97a77746ec.js" crossorigin="anonymous"></script>
 <script src="{{ URL::asset('js/accordion.js') }}"></script>
 <script>
-    fetch('http://127.0.0.1:8000/api/shop/menu/' + {{ $data->shop_idx }}, {
+    let url = "{{env('URL'))shop/menu/" + {{ $data->shop_idx }};
+    fetch(url, {
         headers: {
             access_token: "{{env('access_tokken')}}"
         }
