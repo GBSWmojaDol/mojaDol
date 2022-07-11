@@ -48,7 +48,7 @@
         let url = "{{env('URL')}}search/" + value
         fetch(url, {
             headers: {
-                access_token: "{{env('access_tokken')}}"
+                access_token: "{{env('ACCESS_TOKKEN')}}"
             }
         }).then((response) => response.json()).then(
             (datas) => {
