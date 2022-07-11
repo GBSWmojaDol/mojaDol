@@ -45,8 +45,8 @@
 <script>
     function onClick() {
         let value = document.querySelector('[name="value"]').value;
-
-        fetch('http://127.0.0.1:8000/api/search/' + value, {
+        let url = "{{env('URL')}}search/" + value
+        fetch(url, {
             headers: {
                 access_token: "{{env('access_tokken')}}"
             }
