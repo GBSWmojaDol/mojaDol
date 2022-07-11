@@ -49,6 +49,17 @@
               <li><a href="#maintenance">유지 보수</a></li>
             </ul>
           </li>
+                <li>
+                        <a href="#result-presentation">결과 및 발표 자료</a>
+                        <ul>
+                                <li><a href="#repository">깃허브 저장소 주소</a></li>
+                                <li><a href="#url">실행 주소</a></li>
+                                <li><a href="#videos">프로젝트 소개 영상 / 팀 소개 영상</a></li>
+                                <li><a href="#presentation1">계획 발표 자료</a></li>
+                                <li><a href="#presentation2">중간 발표 자료</a></li>
+                                <li><a href="#presentation3">최종 발표 자료</a></li>
+                        </ul>
+                </li>
         </ul>
         <br>
         <a href="#topic"><h2 id="topic">프로젝트 주제</h2></a>
@@ -158,4 +169,29 @@
         3. react로 변경<br>
         <h4>백엔드</h4>
         1. 코드 리팩터링<br>
-        
+        <a href="#result-presentation"><h1 id="result-presentation">결과 및 발표 자료</h1></a>
+        <hr>
+        <a href="#repository"><h2 id="repository">깃허브 저장소 주소</h2></a>
+        <hr>
+        <a href="https://github.com/GBSWmojaDol/mojaDol">mojadol</a>
+        <br><br>
+        <a href="#url"><h2 id="url">실행 주소</h2></a>
+        <hr>
+        <a href="http://3.39.77.153:8080/">http://3.39.77.153:8080/</a>
+        <br><br>
+        <a href="#videos"><h2 id="videos">프로젝트 소개 영상 / 팀 소개 영상</h2></a>
+        <hr>
+        <br><br>
+        <a href="#presentation1"><h2 id="presentation1">계획 발표 자료</h2></a>
+        <hr>
+        <a href="https://github.com/GBSWmojaDol/mojaDol/blob/master/ReadMe/2022%ED%95%99%EB%85%84%EB%8F%84%20%EA%B2%BD%EB%B6%81%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%A0%20%EC%BA%A1%EC%8A%A4%ED%86%A4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%88%98%EC%A0%95%EA%B3%84%ED%9A%8D%EC%84%9C(%EB%AA%A8%EC%9E%90%EB%91%98).hwp">계획서</a> <br>
+        <a href="https://github.com/GBSWmojaDol/mojaDol/blob/master/ReadMe/%EA%B3%84%ED%9A%8D%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pptx">계획 발표 자료</a>
+        <br><br>
+        <a href="#presentation2"><h2 id="presentation2">중간 발표 자료</h1></a>
+        <hr>
+        <a href="https://github.com/GBSWmojaDol/mojaDol/blob/master/ReadMe/%EC%A4%91%EA%B0%84%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pptx">중간 발표 자료</a> <br>
+        <br><br>
+        <a href="#presentation3"><h1 id="presentation3">최종 발표 자료</h1></a>
+        <hr>
+        <a href="#">최종 발표 자료</a><br>
+        <br><br>
