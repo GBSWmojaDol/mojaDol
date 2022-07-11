@@ -46,7 +46,7 @@
 <script>
     function checkId() {
         let id = document.querySelector('#id').value;
-        let url = 'http://127.0.0.1:8000/api/login/' + id;
+        let url = {{env('url'));
 
         fetch(url, {
             headers: {
