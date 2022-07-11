@@ -115,7 +115,7 @@
     let url = "{{env('URL'))shop/menu/" + {{ $data->shop_idx }};
     fetch(url, {
         headers: {
-            access_token: "{{env('access_tokken')}}"
+            access_token: "{{env('ACCESS_TOKKEN')}}"
         }
     }).then((response) => response.json()).then(
         (datas) => {
