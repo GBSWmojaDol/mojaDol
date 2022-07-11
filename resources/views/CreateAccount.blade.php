@@ -46,7 +46,7 @@
 <script>
     function checkId() {
         let id = document.querySelector('#id').value;
-        let url = {{env('url'));
+        let url = "{{env('url'))login/" + id;
 
         fetch(url, {
             headers: {
