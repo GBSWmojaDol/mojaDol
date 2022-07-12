@@ -144,7 +144,7 @@
         }
     );
 
-    fetch('http://127.0.0.1:8000/api/review/show/' + {{ $data->shop_idx }}, {
+    fetch('{{env('URL')}}review/show/' + {{ $data->shop_idx }}, {
         headers: {
             access_token: "{{env('access_tokken')}}",
             user: "{{session('user')}}",
@@ -219,7 +219,7 @@
     }
 
     function clickReviewGood(e) {
-        fetch('http://127.0.0.1:8000/api/review/good/' + e.target.value, {
+        fetch('{{env('URL')}}review/good/' + e.target.value, {
             headers: {
                 access_token: "{{env('access_tokken')}}",
                 user: "{{session('user')}}",
