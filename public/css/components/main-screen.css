@@ -74,9 +74,10 @@
 
 .main-screen__profile__change {
     font-size: 10px;
-    margin-top: -15px;
+    margin-top: 5px;
     color: #777;
 }
+
 
 .main-screen__reviewck {
     display: flex;
@@ -117,17 +118,15 @@
 }
 
 .main-screen__erase {
-    border-radius: 2px;
-    background-color: #262a2d;
-    margin-top: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .main-screen__erase p {
-    color: #fff;
+    color: #777;
 }
+
 
 .foodlist {
     margin-top: 15px;

@@ -37,6 +37,11 @@
                 <a href="{{ url('/') }}/user/delete">계정 삭제</a>
             </p>
         </div>
+        <div class="main-screen__erase">
+            <p><a href="{{ url('/') }}/user/delete">회원 탈퇴 &nbsp</a></p>
+            <p> | </p>
+            <p><a href="{{ url('/') }}/user/모르겠어여">&nbsp 로그아웃</a></p>
+        </div>
     </main>
     <nav class="nav">
         <ul class="nav-list">

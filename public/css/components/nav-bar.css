@@ -13,6 +13,7 @@
     display: flex;
     justify-content: space-between;
     padding-inline-start: 0px;
+    padding: 13px 0px;
 }
 
 .nav__btn {
