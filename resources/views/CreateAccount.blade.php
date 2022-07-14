@@ -46,11 +46,11 @@
 <script>
     function checkId() {
         let id = document.querySelector('#id').value;
-        let url = 'http://127.0.0.1:8000/api/login/' + id;
+        let url = "{{env('URL'))login/" + id;
 
         fetch(url, {
             headers: {
-                access_token: "{{env('access_tokken')}}"
+                access_token: "{{env('ACCESS_TOKEN')}}"
             }
         }).then((response) => response.json()).then((data) => {
             console.log(data);

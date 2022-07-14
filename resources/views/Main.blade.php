@@ -50,14 +50,16 @@
 <script src="https://kit.fontawesome.com/97a77746ec.js" crossorigin="anonymous"></script>
 <script>
 
+    let url = "{{env('URL'))shop/" + document.querySelector('[name="rel"]').value;
+
     window.onload = function() {
         onClick();
     }
 
     function onClick() {
-        fetch('http://127.0.0.1:8000/api/shop/' + document.querySelector('[name="rel"]').value, {
+        fetch(url, {
         headers: {
-            access_token: "{{env('access_tokken')}}"
+            access_token: "{{env('ACCESS_TOKKEN')}}"
         }
     }).then((response) => response.json()).then(
         (datas) => {

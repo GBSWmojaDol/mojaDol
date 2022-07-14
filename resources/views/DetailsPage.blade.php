@@ -112,9 +112,10 @@
 <script src="https://kit.fontawesome.com/97a77746ec.js" crossorigin="anonymous"></script>
 <script src="{{ URL::asset('js/accordion.js') }}"></script>
 <script>
-    fetch('http://127.0.0.1:8000/api/shop/menu/' + {{ $data->shop_idx }}, {
+    let url = "{{env('URL'))shop/menu/" + {{ $data->shop_idx }};
+    fetch(url, {
         headers: {
-            access_token: "{{env('access_tokken')}}"
+            access_token: "{{env('ACCESS_TOKKEN')}}"
         }
     }).then((response) => response.json()).then(
         (datas) => {
@@ -143,7 +144,7 @@
         }
     );
 
-    fetch('http://127.0.0.1:8000/api/review/show/' + {{ $data->shop_idx }}, {
+    fetch('{{env('URL')}}review/show/' + {{ $data->shop_idx }}, {
         headers: {
             access_token: "{{env('access_tokken')}}",
             user: "{{session('user')}}",
@@ -218,7 +219,7 @@
     }
 
     function clickReviewGood(e) {
-        fetch('http://127.0.0.1:8000/api/review/good/' + e.target.value, {
+        fetch('{{env('URL')}}review/good/' + e.target.value, {
             headers: {
                 access_token: "{{env('access_tokken')}}",
                 user: "{{session('user')}}",

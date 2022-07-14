@@ -73,8 +73,8 @@
 #create-form a {
     border: none;
     text-align: center;
-    background-color: #8092A3;
-    color: #000;
+    background-color: #FF8063;
+    color: #fff;
     cursor: pointer;
     transition: 0.3s;
     border-radius: 5px;
@@ -84,7 +84,7 @@
 }
 
 #create-form a:hover {
-    background-color: #21355B;
+    background-color: #FF918A;
     color: #fff;
 }
 
