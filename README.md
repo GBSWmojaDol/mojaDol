@@ -112,7 +112,13 @@
 
 <p>AfterSearching - 가게의 검색정보를 보여주는 레이아웃입니다. </p>
 <img src="ReadMe/AfterSearching.png">
-  
+
+<p>home - 메인 페이지 레이아웃입니다. </p>
+<img src='ReadMe/home.png">
+
+<p>MyPage - 나의 정보를 확인 할 수 있는 레이아웃입니다. </p>
+<img src='ReadMe/MyPage.png">
+ 
 ## 데이터베이스 / 데이터 플로우 / 시스템 구조
   
   ### 데이터베이스 / 데이터 플로우
