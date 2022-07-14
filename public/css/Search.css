@@ -10,6 +10,9 @@
   .top-header {
     background-color: #FF8063;
   }
+  .arrow-icon {
+    transform: rotate(180deg);
+  }
 
   .fa-arrow-left {
     color: white;
